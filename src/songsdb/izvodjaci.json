@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Migos"
+  },
+  {
+    "id": 2,
+    "name": "Eminem"
+  },
+  {
+    "id": 3,
+    "name": "Eric Clapton"
+  },
+  {
+    "id": 4,
+    "name": "Jimi Hendirx"
+  },
+  {
+    "id": 5,
+    "name": "Robert Cray"
+  },
+  {
+    "id": 6,
+    "name": "Rory Gallagher"
+  },
+  {
+    "id": 7,
+    "name": "Muddy Waters"
+  },
+  {
+    "id": 8,
+    "name": "AC/DC"
+  },
+  {
+    "id": 9,
+    "name": "Pink Floyd"
+  },
+  {
+    "id": 10,
+    "name": "Deep Purple"
+  }
+]
